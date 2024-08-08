@@ -46,3 +46,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 >EducationWebApp
 >EducationWebApp
 >EducationApp
+
+## Output
+![Screenshot 2024-07-27 160530](https://github.com/user-attachments/assets/43e94938-2484-46eb-87b2-46c92f2b0449)
+![Screenshot 2024-07-27 160739](https://github.com/user-attachments/assets/911312c1-0a91-408e-9ecb-475a9f817354)
+![Screenshot 2024-07-27 160855](https://github.com/user-attachments/assets/8edeecc1-eb9e-4e8f-a2ce-6aca5a745e74)
+![Screenshot 2024-07-27 161023](https://github.com/user-attachments/assets/14022258-8966-43c5-8c44-b7d5136c4bec)
+![Screenshot 2024-07-27 161212](https://github.com/user-attachments/assets/2084acb9-31ad-462f-833b-bdb92759d794)
+
+
+
+
